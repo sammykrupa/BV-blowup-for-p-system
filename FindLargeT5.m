@@ -1,7 +1,9 @@
 %This is the MATLAB code to find a large T_N configuration in the set of
-%2x2 matrices
+%2x2 matrices.
 %It is associated with the paper 'Finite time BV blow-up for Liu-admissible
-%solutions to $p$-system via computer-assisted proof' by Sam G. Krupa
+%solutions to $p$-system via computer-assisted proof' by Sam G. Krupa.
+% To use the T_5 which is given in the appendix of the paper, uncomment
+% lines 153-178 (inclusive) of this code. 
 
 
 %Step 1: Setup the numerical solver to find a large T_N, and run the solver
