@@ -31,6 +31,7 @@ archivePrefix = {arXiv},
 }
 ```
  
- S. G. Krupa and L. Székelyhidi, Jr. 
-Contact discontinuities for 2-D isentropic Euler are unique in 1-D but wildly non-unique otherwise. 
-Comm. Math. Phys., 406(5):Paper No. 109, 24, 2025.
+S. G. Krupa.
+Finite time BV blowup for Liu-admissible solutions to p-system via computer-assisted proof.
+arXiv:2403.07784 (2024)
+
