@@ -13,25 +13,26 @@ MATLAB code for the paper 'Finite time BV blowup for Liu-admissible solutions to
 If you use the code, please also cite the associated paper:
  
 ```bibtex
-@ARTICLE{2024arXiv240307784K,
-       author = {{Krupa}, Sam G.},
-        title = "{Finite time BV blowup for Liu-admissible solutions to $p$-system via computer-assisted proof}",
-      journal = {arXiv e-prints},
-     keywords = {Mathematics - Analysis of PDEs, 35L65 (Primary) 35B44, 35D30, 35A02, 35L45, 76N15, 49K21 (Secondary)},
-         year = 2024,
-        month = mar,
-          eid = {arXiv:2403.07784},
-        pages = {arXiv:2403.07784},
-          doi = {10.48550/arXiv.2403.07784},
-archivePrefix = {arXiv},
-       eprint = {2403.07784},
- primaryClass = {math.AP},
-       adsurl = {https://ui.adsabs.harvard.edu/abs/2024arXiv240307784K},
-      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+@article {MR5058079,
+    AUTHOR = {Krupa, Sam G.},
+     TITLE = {Non-uniqueness and {BV} blowup for vacuously {L}iu-admissible
+              solutions to {$P$}-system via computer-assisted proof},
+   JOURNAL = {J. Math. Fluid Mech.},
+  FJOURNAL = {Journal of Mathematical Fluid Mechanics},
+    VOLUME = {28},
+      YEAR = {2026},
+    NUMBER = {2},
+     PAGES = {Paper No. 37, 19},
+      ISSN = {1422-6928,1422-6952},
+   MRCLASS = {35L65 (35A02 35B44 35D30 35L45 76N15)},
+  MRNUMBER = {5058079},
+       DOI = {10.1007/s00021-026-01018-5},
+       URL = {https://doi.org/10.1007/s00021-026-01018-5},
 }
 ```
  
 S. G. Krupa.
-Finite time BV blowup for Liu-admissible solutions to p-system via computer-assisted proof.
-arXiv:2403.07784 (2024)
+Non-Uniqueness and BV Blowup for Vacuously Liu-Admissible Solutions to P-System Via Computer-Assisted Proof.
+*J. Math. Fluid Mech.*, 28(2):Paper No. 37, 2026.
+
 
