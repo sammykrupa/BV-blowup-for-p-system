@@ -1,5 +1,5 @@
 # BV-blowup-for-p-system
-MATLAB code for the paper 'Finite time BV blowup for Liu-admissible solutions to p-system via computer-assisted proof'
+MATLAB code for the paper 'Non-Uniqueness and BV Blowup for Vacuously Liu-Admissible Solutions to P-System Via Computer-Assisted Proof'
 [https://arxiv.org/abs/2403.07784](https://arxiv.org/abs/2403.07784)
 
 
